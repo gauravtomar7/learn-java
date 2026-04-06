@@ -7,6 +7,7 @@ interface Bike {
 
 class MotorCycle implements Bike {
 
+
     boolean isEngineOn;
     int speed;
 
